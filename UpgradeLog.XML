@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Hizbe_Jamali_Web">
+</Property><Property Name="Solution File" Value="D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web.sln">
+</Property><Property Name="Date" Value="Thursday, October 9, 2014">
+</Property><Property Name="Time" Value="19:39 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Hizbe_Jamali_Web" Source="Hizbe_Jamali_Web\Hizbe_Jamali_Web.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Hizbe_Jamali_Web" Source="Hizbe_Jamali_Web\Hizbe_Jamali_Web.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Hizbe_Jamali_Web.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Hizbe_Jamali_Web.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Hizbe_Jamali_Web" Source="Hizbe_Jamali_Web\Hizbe_Jamali_Web.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

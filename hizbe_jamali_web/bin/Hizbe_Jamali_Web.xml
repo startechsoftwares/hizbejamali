@@ -1,0 +1,5728 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hizbe_Jamali_Web
+</name>
+</assembly>
+<members>
+<member name="F:Hizbe_Jamali_Web.CustomError.styling">
+	<summary>
+styling control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.CustomError.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblAccountBal">
+	<summary>
+lblAccountBal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblPersonal">
+	<summary>
+lblPersonal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label51">
+	<summary>
+Label51 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblName">
+	<summary>
+lblName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblEjamaat">
+	<summary>
+lblEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblContact">
+	<summary>
+lblContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblEmail">
+	<summary>
+lblEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Table4">
+	<summary>
+Table4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblLName">
+	<summary>
+lblLName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label13">
+	<summary>
+Label13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblLContact">
+	<summary>
+lblLContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.Label19">
+	<summary>
+Label19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.lblLEmail">
+	<summary>
+lblLEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homemember.litMenuLink">
+	<summary>
+litMenuLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.Styling">
+	<summary>
+Styling control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.TimeOutMessage">
+	<summary>
+TimeOutMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.txteJamaatID">
+	<summary>
+txteJamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.drpAccountType">
+	<summary>
+drpAccountType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.login.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.txtDateF">
+	<summary>
+txtDateF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.txtDateT">
+	<summary>
+txtDateT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.cboxMemberName">
+	<summary>
+cboxMemberName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.Table5">
+	<summary>
+Table5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.btnNew">
+	<summary>
+btnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.lblresult">
+	<summary>
+lblresult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.txtDate">
+	<summary>
+txtDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.cboxSname">
+	<summary>
+cboxSname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.txtNarration">
+	<summary>
+txtNarration control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.cboxFCY">
+	<summary>
+cboxFCY control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.pymntv.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.plcReceiptConfirmation">
+	<summary>
+plcReceiptConfirmation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lnkYes">
+	<summary>
+lnkYes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lnkNo">
+	<summary>
+lnkNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.txtDate">
+	<summary>
+txtDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.cboxSname">
+	<summary>
+cboxSname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.txtNarration">
+	<summary>
+txtNarration control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.cboxFCY">
+	<summary>
+cboxFCY control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.drpAccountType">
+	<summary>
+drpAccountType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lblNoData">
+	<summary>
+lblNoData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.btnNew">
+	<summary>
+btnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.btnEdit">
+	<summary>
+btnEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.btnDelete">
+	<summary>
+btnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.cboxMemberName">
+	<summary>
+cboxMemberName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.drpUserAccountTypeSearch">
+	<summary>
+drpUserAccountTypeSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.txtFromRange">
+	<summary>
+txtFromRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.txtToRange">
+	<summary>
+txtToRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.btnSearchByRange">
+	<summary>
+btnSearchByRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.trRow">
+	<summary>
+trRow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.lblresult">
+	<summary>
+lblresult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv1.btnAddReceipt">
+	<summary>
+btnAddReceipt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash2.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash2.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash2.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.imgProfile">
+	<summary>
+imgProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.fuProfile">
+	<summary>
+fuProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.cusProfile">
+	<summary>
+cusProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.txtMemberName">
+	<summary>
+txtMemberName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.reqName">
+	<summary>
+reqName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.txtEmailId">
+	<summary>
+txtEmailId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.reqEmailID">
+	<summary>
+reqEmailID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.cstValidator">
+	<summary>
+cstValidator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.txteJamaatID">
+	<summary>
+txteJamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.reqEjamaatID">
+	<summary>
+reqEjamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.cusEjamaatID">
+	<summary>
+cusEjamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.txtMobileNumber">
+	<summary>
+txtMobileNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.reqMobileNummber">
+	<summary>
+reqMobileNummber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.regMobileNumber">
+	<summary>
+regMobileNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.drpGroupLeaders">
+	<summary>
+drpGroupLeaders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.drpCountry">
+	<summary>
+drpCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.form.btnAddMember">
+	<summary>
+btnAddMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.drpLeaders">
+	<summary>
+drpLeaders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.drpUserType">
+	<summary>
+drpUserType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.cboxStatus1">
+	<summary>
+cboxStatus1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.btnSearchMember">
+	<summary>
+btnSearchMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember.ucAddMember">
+	<summary>
+ucAddMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.txtDateF">
+	<summary>
+txtDateF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.txtDateT">
+	<summary>
+txtDateT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.cboxFCY">
+	<summary>
+cboxFCY control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.cboxLeader">
+	<summary>
+cboxLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Table5">
+	<summary>
+Table5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Table8">
+	<summary>
+Table8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.lblfilldata">
+	<summary>
+lblfilldata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repcash1.GridView3">
+	<summary>
+GridView3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.lblAccountBal">
+	<summary>
+lblAccountBal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.txtDateF">
+	<summary>
+txtDateF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.txtDateT">
+	<summary>
+txtDateT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.Table5">
+	<summary>
+Table5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.Table8">
+	<summary>
+Table8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.lblfilldata">
+	<summary>
+lblfilldata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.GridView3">
+	<summary>
+GridView3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.membercashflow.litMenuLink">
+	<summary>
+litMenuLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.profile.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.profile.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.profile.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.profile.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.profile.lblAccountBal">
+	<summary>
+lblAccountBal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.profile.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.profile.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.profile.litMenuLink">
+	<summary>
+litMenuLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.plcReceiptConfirmation">
+	<summary>
+plcReceiptConfirmation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lnkYes">
+	<summary>
+lnkYes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lnkNo">
+	<summary>
+lnkNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.txtDate">
+	<summary>
+txtDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.cboxSname">
+	<summary>
+cboxSname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.txtNarration">
+	<summary>
+txtNarration control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.cboxFCY">
+	<summary>
+cboxFCY control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.drpAccountType">
+	<summary>
+drpAccountType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lblNoData">
+	<summary>
+lblNoData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.btnNew">
+	<summary>
+btnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.btnEdit">
+	<summary>
+btnEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.btnDelete">
+	<summary>
+btnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.cboxMemberName">
+	<summary>
+cboxMemberName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.drpUserAccountTypeSearch">
+	<summary>
+drpUserAccountTypeSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.txtFromRange">
+	<summary>
+txtFromRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.txtToRange">
+	<summary>
+txtToRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.btnSearchByRange">
+	<summary>
+btnSearchByRange control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.trRow">
+	<summary>
+trRow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.lblresult">
+	<summary>
+lblresult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.rcptv.btnAddReceipt">
+	<summary>
+btnAddReceipt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.txtCurrentPassword">
+	<summary>
+txtCurrentPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.rfvCurrentPassword">
+	<summary>
+rfvCurrentPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.cvCurrentPassword">
+	<summary>
+cvCurrentPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.lblNewPassword">
+	<summary>
+lblNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.txtNewPassword">
+	<summary>
+txtNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.rfvNewPassword">
+	<summary>
+rfvNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.lblConfirmPassword">
+	<summary>
+lblConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.cmpConfirmPassword">
+	<summary>
+cmpConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword1.btnChangePassword">
+	<summary>
+btnChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.lblLeader">
+	<summary>
+lblLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.Label51">
+	<summary>
+Label51 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.lblName">
+	<summary>
+lblName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.lblEjamaat">
+	<summary>
+lblEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.lblContact">
+	<summary>
+lblContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.lblEmail">
+	<summary>
+lblEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.txtEjamaat">
+	<summary>
+txtEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.txtNameshort">
+	<summary>
+txtNameshort control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.txtNamefull">
+	<summary>
+txtNamefull control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.txtPW">
+	<summary>
+txtPW control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.cboxRights">
+	<summary>
+cboxRights control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterleader.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.trLeader">
+	<summary>
+trLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.cboxGroupLeader">
+	<summary>
+cboxGroupLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.cboxMname">
+	<summary>
+cboxMname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.drpAccountType">
+	<summary>
+drpAccountType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Table5">
+	<summary>
+Table5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Table8">
+	<summary>
+Table8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.lblfilldata">
+	<summary>
+lblfilldata control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.lblAccountBal">
+	<summary>
+lblAccountBal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.plcAdmin">
+	<summary>
+plcAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repsoa.plcGroupLeader">
+	<summary>
+plcGroupLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ForgotPassword.Styling">
+	<summary>
+Styling control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ForgotPassword.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ForgotPassword.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ForgotPassword.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ForgotPassword.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ForgotPassword.txteJamaatID">
+	<summary>
+txteJamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ForgotPassword.btnForgotPassword">
+	<summary>
+btnForgotPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ForgotPassword.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblSession">
+	<summary>
+lblSession control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtDate">
+	<summary>
+txtDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtEjamaat">
+	<summary>
+txtEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblEjamaat">
+	<summary>
+lblEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtName">
+	<summary>
+txtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblName">
+	<summary>
+lblName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.cboxGender">
+	<summary>
+cboxGender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtAge">
+	<summary>
+txtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblAge">
+	<summary>
+lblAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtContact">
+	<summary>
+txtContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblContact">
+	<summary>
+lblContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtContact1">
+	<summary>
+txtContact1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtContact2">
+	<summary>
+txtContact2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtOccupation">
+	<summary>
+txtOccupation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblOccupation">
+	<summary>
+lblOccupation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.cboxMember">
+	<summary>
+cboxMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblRecMem">
+	<summary>
+lblRecMem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.cboxMemberAdmin">
+	<summary>
+cboxMemberAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblRemAdmin">
+	<summary>
+lblRemAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.chkbxDadi">
+	<summary>
+chkbxDadi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.chkbxTopi">
+	<summary>
+chkbxTopi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.chkbxRida">
+	<summary>
+chkbxRida control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.chkbxMoharramat">
+	<summary>
+chkbxMoharramat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtIncome">
+	<summary>
+txtIncome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblIncome">
+	<summary>
+lblIncome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtExp">
+	<summary>
+txtExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblExp">
+	<summary>
+lblExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtDependants">
+	<summary>
+txtDependants control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblDependants">
+	<summary>
+lblDependants control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtMedical">
+	<summary>
+txtMedical control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblMedical">
+	<summary>
+lblMedical control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtJamaa">
+	<summary>
+txtJamaa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblJamaa">
+	<summary>
+lblJamaa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtNiyyat">
+	<summary>
+txtNiyyat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblNiyyat">
+	<summary>
+lblNiyyat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.cboxZiyarat">
+	<summary>
+cboxZiyarat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtZiyarat">
+	<summary>
+txtZiyarat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblZiyaratName">
+	<summary>
+lblZiyaratName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtAddress">
+	<summary>
+txtAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblAddress">
+	<summary>
+lblAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.cboxValidity">
+	<summary>
+cboxValidity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtDatePP">
+	<summary>
+txtDatePP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblDatePP">
+	<summary>
+lblDatePP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.txtRemarks">
+	<summary>
+txtRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.lblRemarks">
+	<summary>
+lblRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.cboxStatus">
+	<summary>
+cboxStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.btnNew">
+	<summary>
+btnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Forgot.Styling">
+	<summary>
+Styling control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Forgot.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Forgot.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Forgot.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Forgot.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Forgot.txteJamaatID">
+	<summary>
+txteJamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Forgot.btnForgotPassword">
+	<summary>
+btnForgotPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Forgot.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Hizbe_Jamali_Web.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hizbe_Jamali_Web.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Hizbe_Jamali_Web.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Hizbe_Jamali_Web.Tree.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Tree.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Tree.TreeView1">
+	<summary>
+TreeView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.Table5">
+	<summary>
+Table5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.btnNew">
+	<summary>
+btnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.lblresult">
+	<summary>
+lblresult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.txtDate">
+	<summary>
+txtDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.cboxFCY">
+	<summary>
+cboxFCY control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.cboxFCYAg">
+	<summary>
+cboxFCYAg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.txtAmtIRS">
+	<summary>
+txtAmtIRS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.txtRate">
+	<summary>
+txtRate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.txtAmtDHS">
+	<summary>
+txtAmtDHS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.txtRemarks">
+	<summary>
+txtRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.trfv.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.Styling">
+	<summary>
+Styling control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.txteJamaatID">
+	<summary>
+txteJamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.Login1.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.executedb.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.executedb.txtQuery">
+	<summary>
+txtQuery control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.executedb.btnExecuteQuery">
+	<summary>
+btnExecuteQuery control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.executedb.grdDbRecords">
+	<summary>
+grdDbRecords control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.lblAccountCode">
+	<summary>
+lblAccountCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.txtSupplierName">
+	<summary>
+txtSupplierName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.txtContact">
+	<summary>
+txtContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.txtTelephone">
+	<summary>
+txtTelephone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.txtFax">
+	<summary>
+txtFax control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.txtMobile">
+	<summary>
+txtMobile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.txtAddress">
+	<summary>
+txtAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastertravel.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web._Default.plcMemberCount">
+	<summary>
+plcMemberCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web._Default.lblcount">
+	<summary>
+lblcount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.cboxStatusZ">
+	<summary>
+cboxStatusZ control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.btnExcel">
+	<summary>
+btnExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.pnlContents">
+	<summary>
+pnlContents control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtDate">
+	<summary>
+txtDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtEjamaat">
+	<summary>
+txtEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtName">
+	<summary>
+txtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtGender">
+	<summary>
+txtGender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtAge">
+	<summary>
+txtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtContact">
+	<summary>
+txtContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtOccupation">
+	<summary>
+txtOccupation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtContact1">
+	<summary>
+txtContact1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtContact2">
+	<summary>
+txtContact2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtRecMem">
+	<summary>
+txtRecMem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtRecMemHJ">
+	<summary>
+txtRecMemHJ control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtContactMember">
+	<summary>
+txtContactMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtContactLeader">
+	<summary>
+txtContactLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtIncome">
+	<summary>
+txtIncome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtExp">
+	<summary>
+txtExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.chkbxDadi">
+	<summary>
+chkbxDadi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.chkbxTopi">
+	<summary>
+chkbxTopi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.chkbxRida">
+	<summary>
+chkbxRida control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.chkbxMoharramat">
+	<summary>
+chkbxMoharramat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtDependants">
+	<summary>
+txtDependants control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtJama">
+	<summary>
+txtJama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtNiyyat">
+	<summary>
+txtNiyyat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtZiyarat">
+	<summary>
+txtZiyarat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtZiyaratName">
+	<summary>
+txtZiyaratName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtMedical">
+	<summary>
+txtMedical control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtAddress">
+	<summary>
+txtAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtPPVal">
+	<summary>
+txtPPVal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtPPExp">
+	<summary>
+txtPPExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.cboxStatus">
+	<summary>
+cboxStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtRemarks">
+	<summary>
+txtRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtSanction">
+	<summary>
+txtSanction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.txtComment">
+	<summary>
+txtComment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.lblremarks">
+	<summary>
+lblremarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.BtnPrint">
+	<summary>
+BtnPrint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.repzaereenverify.cboxTravelled">
+	<summary>
+cboxTravelled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.lblAccountBal">
+	<summary>
+lblAccountBal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.grdFoster">
+	<summary>
+grdFoster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.lblresult">
+	<summary>
+lblresult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.rptFosterGroups">
+	<summary>
+rptFosterGroups control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.foster.litMenuLink">
+	<summary>
+litMenuLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.style">
+	<summary>
+style control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.rowLoggedAs">
+	<summary>
+rowLoggedAs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.rowGroupLeader">
+	<summary>
+rowGroupLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.lblLeader">
+	<summary>
+lblLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.rowAccountBalance">
+	<summary>
+rowAccountBalance control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.lblAccountBal">
+	<summary>
+lblAccountBal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.lblCurrentPassword">
+	<summary>
+lblCurrentPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.txtCurrentPassword">
+	<summary>
+txtCurrentPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.rfvCurrentPassword">
+	<summary>
+rfvCurrentPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.cvCurrentPassword">
+	<summary>
+cvCurrentPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.lblNewPassword">
+	<summary>
+lblNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.txtNewPassword">
+	<summary>
+txtNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.rfvNewPassword">
+	<summary>
+rfvNewPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.lblConfirmPassword">
+	<summary>
+lblConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.txtConfirmPassword">
+	<summary>
+txtConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.cmpConfirmPassword">
+	<summary>
+cmpConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.btnChangePassword">
+	<summary>
+btnChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.btnSkipChangePassword">
+	<summary>
+btnSkipChangePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.plcAdmin">
+	<summary>
+plcAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.plcGroupLeader">
+	<summary>
+plcGroupLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.plcMember">
+	<summary>
+plcMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.ChangePassword.litMenuLink">
+	<summary>
+litMenuLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.drpUserType">
+	<summary>
+drpUserType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.cboxStatus1">
+	<summary>
+cboxStatus1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.btnSearchMember">
+	<summary>
+btnSearchMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.mastermember1.ucAddMember">
+	<summary>
+ucAddMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.btnSearch">
+	<summary>
+btnSearch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtEjamaat">
+	<summary>
+txtEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtName">
+	<summary>
+txtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtAge">
+	<summary>
+txtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtContact">
+	<summary>
+txtContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtDate">
+	<summary>
+txtDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtTripDays">
+	<summary>
+txtTripDays control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtOccupation">
+	<summary>
+txtOccupation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtAddress">
+	<summary>
+txtAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtRemarks">
+	<summary>
+txtRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtStatus">
+	<summary>
+txtStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.txtTripExp">
+	<summary>
+txtTripExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.masterzaereen.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.lblMissing">
+	<summary>
+lblMissing control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.txtName">
+	<summary>
+txtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.lblName">
+	<summary>
+lblName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.formZaereen1.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.plcErrorMessage">
+	<summary>
+plcErrorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.lblError">
+	<summary>
+lblError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.lnkDashBoard">
+	<summary>
+lnkDashBoard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.plcMainContent">
+	<summary>
+plcMainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.Label51">
+	<summary>
+Label51 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.lblName">
+	<summary>
+lblName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.lblEjamaat">
+	<summary>
+lblEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.lblContact">
+	<summary>
+lblContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.lblEmail">
+	<summary>
+lblEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.homeadmin1.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.imgProfile">
+	<summary>
+imgProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.fuProfile">
+	<summary>
+fuProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.btnAddMember">
+	<summary>
+btnAddMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.plcCoreMember">
+	<summary>
+plcCoreMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.btnApproveMember">
+	<summary>
+btnApproveMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.btnRejectMember">
+	<summary>
+btnRejectMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.txtMemberName">
+	<summary>
+txtMemberName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.reqName">
+	<summary>
+reqName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.txtEmailId">
+	<summary>
+txtEmailId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.reqEmailID">
+	<summary>
+reqEmailID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.cstValidator">
+	<summary>
+cstValidator control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.rdStatus">
+	<summary>
+rdStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.txteJamaatID">
+	<summary>
+txteJamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.reqEjamaatID">
+	<summary>
+reqEjamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.regITS">
+	<summary>
+regITS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.cusEjamaatID">
+	<summary>
+cusEjamaatID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.txtMobileNumber">
+	<summary>
+txtMobileNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.reqMobileNummber">
+	<summary>
+reqMobileNummber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.lblLeaderType">
+	<summary>
+lblLeaderType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.drpCoreLeaders">
+	<summary>
+drpCoreLeaders control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.lblGroupLeader">
+	<summary>
+lblGroupLeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.drpCountry">
+	<summary>
+drpCountry control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.rdKarbalaZiyaarat">
+	<summary>
+rdKarbalaZiyaarat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.rdMoharramaat">
+	<summary>
+rdMoharramaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.rdDeeniSheear">
+	<summary>
+rdDeeniSheear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.rdGender">
+	<summary>
+rdGender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.chkBoxUserType">
+	<summary>
+chkBoxUserType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.cvmodulelist">
+	<summary>
+cvmodulelist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.pnlRejectReason">
+	<summary>
+pnlRejectReason control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.txtRejectReason">
+	<summary>
+txtRejectReason control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.rfvRejectReason">
+	<summary>
+rfvRejectReason control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.btnRejectNow">
+	<summary>
+btnRejectNow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.AddMember.btnRejectCancel">
+	<summary>
+btnRejectCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.bayaan.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.bayaan.Image2">
+	<summary>
+Image2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.bayaan.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.Table7">
+	<summary>
+Table7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.lblLogged">
+	<summary>
+lblLogged control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.lblAccountBal">
+	<summary>
+lblAccountBal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.Table6">
+	<summary>
+Table6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.GridView2">
+	<summary>
+GridView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.lblresult">
+	<summary>
+lblresult control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.btnShowPopup">
+	<summary>
+btnShowPopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.ModalPopupExtender1">
+	<summary>
+ModalPopupExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.pnlpopup">
+	<summary>
+pnlpopup control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.lblTNo">
+	<summary>
+lblTNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtEjamaat">
+	<summary>
+txtEjamaat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtName">
+	<summary>
+txtName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtAge">
+	<summary>
+txtAge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtContact">
+	<summary>
+txtContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtDate">
+	<summary>
+txtDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtTripDays">
+	<summary>
+txtTripDays control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtOccupation">
+	<summary>
+txtOccupation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtAddress">
+	<summary>
+txtAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtRemarks">
+	<summary>
+txtRemarks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtStatus">
+	<summary>
+txtStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.txtTripExp">
+	<summary>
+txtTripExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Hizbe_Jamali_Web.zaereen.litMenuLink">
+	<summary>
+litMenuLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

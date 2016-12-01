@@ -1,0 +1,10 @@
+﻿Salaam <strong>##name##</strong>,
+<br /><br />Below one of your group-member has been rejected for Hizb-e-Jamali Membership:
+<br /><br />ITS ID : <strong>##itsid##</strong>
+<br />Full Name : <strong>##fullname##</strong>
+<br />Contact Number : <strong>##contactnumber##</strong>
+<br />Email Address : <strong>##email##</strong>
+<br /><br />Reason for the rejection is as follows:
+<br /><strong>##rejectreason##</strong>
+<br /><br />
+Wassalaam,<br/>Abeed Syednal Minaam (TUS)<br />Hizb-e-Jamali

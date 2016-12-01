@@ -1,0 +1,10 @@
+﻿Salaam <strong>##name##</strong>,
+<br /><br />New member account has been activated under your group, below are the details of the member:
+<br /><br />Full Name : <strong>##memberfullname##</strong>
+<br />Contact Number : <strong>##membercontactnumber##</strong>
+<br />Email : <strong>##memberemail##</strong>
+<br />Country : <strong>##membercountry##</strong>
+<br />ITS ID : <strong>##itsid##</strong>
+<br />Password : <strong>##password##</strong>
+<br /><br />
+Wassalaam,<br/>Abeed Syednal Minaam (TUS)<br />Hizb-e-Jamali

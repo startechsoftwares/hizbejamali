@@ -1,0 +1,85 @@
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+C:\Users\Admin\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+C:\Users\Shabbir A E\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+E:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\AjaxControlToolkit.dll
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+D:\Dropbox\Shab's Projects\Hizbe_Jamali_Web\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbprojResolveAssemblyReference.cache
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll.config
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+G:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbprojResolveAssemblyReference.cache
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll.config
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbprojResolveAssemblyReference.cache
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+D:\websites\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll.config
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbprojResolveAssemblyReference.cache
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb

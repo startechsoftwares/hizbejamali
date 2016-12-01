@@ -1,0 +1,10 @@
+﻿Salaam <strong>##name##</strong>,
+<br /><br />Your contribution has been received, below are the details of your payment:<br />
+Receipt No: <strong>##receiptno##</strong><br />
+Payment #: <strong>##narration##</strong><br />
+Payment Date: <strong>##paymentdate##</strong><br />
+Payment Amount: <strong>##amount## ##currency##</strong><br /><br />
+Paid Against: <strong>##paid-against##</strong><br /><br />
+Wassalaam,<br />
+Abeed Syednal Minam (TUS)<br />
+Hizb-e-Jamali

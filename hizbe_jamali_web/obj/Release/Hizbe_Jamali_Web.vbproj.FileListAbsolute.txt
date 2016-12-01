@@ -1,0 +1,9 @@
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Release\Hizbe_Jamali_Web.vbprojResolveAssemblyReference.cache
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Release\Hizbe_Jamali_Web.Resources.resources
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Release\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Release\Hizbe_Jamali_Web.dll
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Release\Hizbe_Jamali_Web.xml
+F:\websites\Hizbe Jamali\Hizbe_Jamali_Web\obj\Release\Hizbe_Jamali_Web.pdb

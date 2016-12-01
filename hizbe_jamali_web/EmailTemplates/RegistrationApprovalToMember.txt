@@ -1,0 +1,11 @@
+﻿Salaam <strong>##name##</strong>,
+<br /><br />Welcome to Hizb-e-Jamali, your account has been approved and activated, below are your login details:
+<br /><br />ITS ID : <strong>##itsid##</strong>
+<br />Password : <strong>##password##</strong>
+<br /><br />Below are the details of your Group Leader:
+<br />Full Name : <strong>##groupleaderfullname##</strong>
+<br />Contact Number : <strong>##groupleadercontactnumber##</strong>
+<br />Email Address : <strong>##groupleaderemail##</strong>
+<br />ITS ID : <strong>##groupleaderitsid##</strong>
+<br /><br />Kindly <a href='http://##domain##/login.aspx'>login</a> and start using your Hizb-e-Jamali account.
+Wassalaam,<br/>Abeed Syednal Minaam (TUS)<br />Hizb-e-Jamali

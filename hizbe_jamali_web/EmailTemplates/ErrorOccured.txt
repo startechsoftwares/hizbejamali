@@ -1,0 +1,20 @@
+﻿Salaam Administrator, there has been error occured on hizb-e-jamali website.<br />
+<tr style='height: 1px; width: 100%'><td style='background-color: grey'></td></tr>
+<table style='width: 100%'>
+<tr><td style='font-size: 20px; font-weight: bold;'>Error Date</td></tr>
+<tr><td>##errordate##</td></tr>
+<tr style='height: 1px; width: 100%'><td style='background-color: grey'></td></tr>
+<tr><td style='font-size: 20px; font-weight: bold;'>Error Short Message</td></tr>
+<tr><td>##shortmessage##</td></tr>
+<tr style='height: 1px; width: 100%'><td style='background-color: grey'></td></tr>
+<tr><td style='font-size: 20px; font-weight: bold;'>Error Detailed Message</td></tr>
+<tr><td>##longmessage##</td></tr>
+<tr style='height: 1px; width: 100%'><td style='background-color: grey'></td></tr>
+<tr><td style='font-size: 20px; font-weight: bold;'>Domain</td></tr>
+<tr><td>##domain##</td></tr>
+<tr style='height: 1px; width: 100%'><td style='background-color: grey'></td></tr>
+<tr><td style='font-size: 20px; font-weight: bold;'>User</td></tr>
+<tr><td>##user##</td></tr>
+<tr style='height: 1px; width: 100%'><td style='background-color: grey'></td></tr>
+</table> <br /><br />
+Wassalaam,<br/>Abeed Syednal Minaam (TUS)<br />Hizb-e-Jamali

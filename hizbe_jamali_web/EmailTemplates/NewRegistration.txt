@@ -1,0 +1,10 @@
+﻿Salaam <strong>##coremember##</strong>,
+<br /><br />New member has been added under Group Leader - <strong>##groupleader##</strong>, below are the details of the member:
+<br /><br />Member's Full Name : <strong>##memberfullname##</strong>
+<br />Contact Number : <strong>##contactnumber##</strong>
+<br />Email Address : <strong>##email##</strong>
+<br />Country : <strong>##country##</strong>
+<br />ITS ID : <strong>##itsid##</strong>
+<br />Password : <strong>##password##</strong>
+<br /><br />
+Wassalaam,<br/>Abeed Syednal Minaam (TUS)<br />Hizb-e-Jamali
