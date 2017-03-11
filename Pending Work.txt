@@ -1,0 +1,10 @@
+Pending Work:
+2. Travelled by should be with filter 
+Amatullah
+Hizbe Jamali
+Himself
+3. Make Text bold in Verification form
+4. Edit option in RV/PV option
+5. Make some logic for member ledger show all recordds/active records. It should not be hard coded with Leader name. SHould be linked with database
+6. Groupleader should be passed with query so if deosnt depend on any hard code solution.
+

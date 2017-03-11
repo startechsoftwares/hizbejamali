@@ -32,10 +32,14 @@
         da.Fill(ds)
         GridView2.DataSource = ds
         GridView2.DataBind()
+
+        Dim lbl As Label = CType(GridView2.FooterRow.FindControl("lblTotal"), Label)
+        lbl.Text = ds.Tables(0).Compute("sum(Amount)", String.Empty).ToString()
     End Sub
     Public Sub GridView2_PageIndexChanging(ByVal sender As Object, ByVal e As System.Web.UI.WebControls.GridViewPageEventArgs) Handles GridView2.PageIndexChanging
         GridView2.PageIndex = e.NewPageIndex
         GridView2.DataBind()
+        DatagridUpdate()
     End Sub
     Public Sub GridView2_RowCancelingEdit(ByVal sender As Object, ByVal e As System.Web.UI.WebControls.GridViewCancelEditEventArgs) Handles GridView2.RowCancelingEdit
 
@@ -44,14 +48,16 @@
 
     End Sub
     Public Sub GridView2_RowDataBound(ByVal sender As Object, ByVal e As System.Web.UI.WebControls.GridViewRowEventArgs) Handles GridView2.RowDataBound
-        If e.Row.RowType = DataControlRowType.DataRow Then
-            Dim rowTotal As Decimal = Convert.ToDecimal(DataBinder.Eval(e.Row.DataItem, "Amount"))
-            grdTotal = grdTotal + rowTotal
-        End If
-        If e.Row.RowType = DataControlRowType.Footer Then
-            Dim lbl As Label = DirectCast(e.Row.FindControl("lblTotal"), Label)
-            lbl.Text = grdTotal.ToString("0.00")
-        End If
+        'If e.Row.RowType = DataControlRowType.DataRow Then
+        '    Dim rowTotal As Decimal = Convert.ToDecimal(DataBinder.Eval(e.Row.DataItem, "Amount"))
+        '    grdTotal = grdTotal + rowTotal
+        'End If
+
+        'Dim ds As DataTable = CType(e.Row.DataItem, DataTable)
+        'If e.Row.RowType = DataControlRowType.Footer Then
+        '    Dim lbl As Label = DirectCast(e.Row.FindControl("lblTotal"), Label)
+        '    lbl.Text = ds.Rows.Count.ToString 'grdTotal.ToString("0.00")
+        'End If
 
     End Sub
     Public Sub GridView2_RowDeleting(ByVal sender As Object, ByVal e As System.Web.UI.WebControls.GridViewDeleteEventArgs) Handles GridView2.RowDeleting

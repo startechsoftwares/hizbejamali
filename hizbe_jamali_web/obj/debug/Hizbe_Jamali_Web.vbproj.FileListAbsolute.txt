@@ -83,3 +83,17 @@ D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.G
 D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
 D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
 D:\Box Sync\hizbejamali.com\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll.config
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.dll
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.pdb
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\bin\Hizbe_Jamali_Web.xml
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbprojResolveAssemblyReference.cache
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.Resources.resources
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.GenerateResource.Cache
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.dll
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.xml
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.pdb
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\bin\Excel.pdb
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\bin\Interop.Microsoft.Office.Core.dll
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Box Sync\hizbejamali\Hizbe_Jamali_Web\obj\Debug\Hizbe_Jamali_Web.vbproj.ResolveComReference.cache
