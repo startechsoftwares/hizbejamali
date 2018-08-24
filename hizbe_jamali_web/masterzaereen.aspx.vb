@@ -53,7 +53,9 @@ Partial Public Class masterzaereen
             txtEjamaat.Text = ds.Tables(0).Rows(0)(3)
             txtContact.Text = ds.Tables(0).Rows(0)(4)
             txtDate.Text = ds.Tables(0).Rows(0)(5)
-            txtTripDays.Text = ds.Tables(0).Rows(0)(6)
+            If Not String.IsNullOrEmpty(ds.Tables(0).Rows(0)(6)) Then
+                txtTripDays.Text = ds.Tables(0).Rows(0)(6)
+            End If
             txtOccupation.Text = ds.Tables(0).Rows(0)(7)
             txtAddress.Text = ds.Tables(0).Rows(0)(8).ToString
             txtTripExp.Text = ds.Tables(0).Rows(0)(9)

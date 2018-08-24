@@ -50,6 +50,33 @@ Partial Public Class idcard
     Protected WithEvents btnSubmit As Global.System.Web.UI.WebControls.Button
     
     '''<summary>
+    '''plcError control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents plcError As Global.System.Web.UI.WebControls.PlaceHolder
+    
+    '''<summary>
+    '''lblError control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents lblError As Global.System.Web.UI.WebControls.Label
+    
+    '''<summary>
+    '''plcCardType1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents plcCardType1 As Global.System.Web.UI.WebControls.PlaceHolder
+    
+    '''<summary>
     '''fuZaereenList control.
     '''</summary>
     '''<remarks>
@@ -86,13 +113,13 @@ Partial Public Class idcard
     Protected WithEvents Button1 As Global.System.Web.UI.WebControls.Button
     
     '''<summary>
-    '''plcNoRecords control.
+    '''plcNoRecordsCard1 control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents plcNoRecords As Global.System.Web.UI.WebControls.PlaceHolder
+    Protected WithEvents plcNoRecordsCard1 As Global.System.Web.UI.WebControls.PlaceHolder
     
     '''<summary>
     '''rptIdCard control.
@@ -102,4 +129,49 @@ Partial Public Class idcard
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents rptIdCard As Global.System.Web.UI.WebControls.DataList
+    
+    '''<summary>
+    '''plcCardType2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents plcCardType2 As Global.System.Web.UI.WebControls.PlaceHolder
+    
+    '''<summary>
+    '''fupCardType2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents fupCardType2 As Global.System.Web.UI.WebControls.FileUpload
+    
+    '''<summary>
+    '''btnCardType2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents btnCardType2 As Global.System.Web.UI.WebControls.Button
+    
+    '''<summary>
+    '''plcNoRecordsCard2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents plcNoRecordsCard2 As Global.System.Web.UI.WebControls.PlaceHolder
+    
+    '''<summary>
+    '''dtlCard2 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents dtlCard2 As Global.System.Web.UI.WebControls.DataList
 End Class

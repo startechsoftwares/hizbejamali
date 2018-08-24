@@ -113,6 +113,13 @@
                             </asp:TableRow>
                             <asp:TableRow>
                                 <asp:TableCell Width="25%">
+                                    <asp:Label ID="Label4" runat="server" Text="Receipt Email"></asp:Label></asp:TableCell>
+                                <asp:TableCell>
+                                    <asp:CheckBox ID="chkNotificationEmail" AutoPostBack="true" OnCheckedChanged="chkNotificationEmail_CheckedChanged" runat="server" />
+                                </asp:TableCell>
+                            </asp:TableRow>
+                            <asp:TableRow>
+                                <asp:TableCell Width="25%">
                                     <asp:Label ID="Label10" runat="server" Text="Photo"></asp:Label></asp:TableCell>
                                 <asp:TableCell>
                                     <asp:Image ID="Image1" runat="server" Width="50%" /></asp:TableCell>

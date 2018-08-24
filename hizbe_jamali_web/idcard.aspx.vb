@@ -38,6 +38,15 @@ Public Class IdCardData
             _mobileNumber = value
         End Set
     End Property
+    Private _city As String
+    Public Property City As String
+        Get
+            Return _city
+        End Get
+        Set(value As String)
+            _city = value
+        End Set
+    End Property
     Private _glname As String
     Public Property GroupLeaderName As String
         Get
@@ -63,12 +72,18 @@ Public Class idcard
     Inherits System.Web.UI.Page
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-
+        If Not Request.QueryString("type") Is Nothing Then
+            plcCardType1.Visible = Request.QueryString("type") = "1"
+            plcCardType2.Visible = Request.QueryString("type") = "2"
+        Else
+            plcCardType1.Visible = False
+            plcCardType2.Visible = False
+            plcError.Visible = True
+            lblError.Text = "Url is invalid append (?type=1 or ?type=2) at the end of the url for processing idcards"
+        End If
     End Sub
 
     Protected Sub btnSubmit_Click(sender As Object, e As EventArgs)
-
-
         If fuZaereenList.HasFile Then
             Dim idCardList As New List(Of IdCardData)
             Dim reader As New StreamReader(fuZaereenList.PostedFile.InputStream)
@@ -92,35 +107,23 @@ Public Class idcard
             End While
             rptIdCard.DataSource = idCardList
             rptIdCard.DataBind()
-            'Dim excelReader As IExcelDataReader = ExcelReaderFactory.CreateOpenXmlReader(fuZaereenList.PostedFile.InputStream)
-            'excelReader.IsFirstRowAsColumnNames = True
-            'Dim ds As DataSet = excelReader.AsDataSet
-            'Dim dt As New System.Data.DataTable("ZaereenList")
-            'dt.Columns.AddRange(New DataColumn() {New DataColumn("ITS"), New DataColumn("Name"), New DataColumn("MobileNumber"), New DataColumn("Age")})
-            'For Each row As DataRow In ds.Tables(0).Rows
-            '    Dim dRow As DataRow = dt.NewRow
-            '    For Each col As DataColumn In ds.Tables(0).Columns
-            '        dRow(col.ColumnName) = row(col.ColumnName).ToString
-            '    Next
-            '    dt.Rows.Add(dRow)
-            'Next
-            'rptIdCard.DataSource = dt
-            'rptIdCard.DataBind()
         End If
+    End Sub
 
-        'If txtFrom.Text <> String.Empty And txtTo.Text <> String.Empty Then
-        '    Dim z As New ZaereenController
-        '    Dim dr() As DataRow = z.GetZaereenList.Select("DOJ > '" + txtFrom.Text + "' and DOJ < '" + txtTo.Text + "'")
-        '    If dr.Count > 0 Then
-        '        Dim dt As DataTable = dr.CopyToDataTable
-        '        rptIdCard.DataSource = dt
-        '        rptIdCard.DataBind()
-        '        plcNoRecords.Visible = False
-        '    Else
-        '        plcNoRecords.Visible = True
-        '    End If
-        'Else
-
-        'End If
+    Protected Sub btnCardType2_Click(sender As Object, e As EventArgs)
+        If fupCardType2.HasFile Then
+            Dim idCardList As New List(Of IdCardData)
+            Dim reader As New StreamReader(fupCardType2.PostedFile.InputStream)
+            While Not reader.EndOfStream
+                Dim rowValue() As String = reader.ReadLine().Split(",")
+                Dim id As New IdCardData
+                id.Name = rowValue(0)
+                id.City = rowValue(1)
+                id.MobileNumber = rowValue(2)
+                idCardList.Add(id)
+            End While
+            dtlCard2.DataSource = idCardList
+            dtlCard2.DataBind()
+        End If
     End Sub
 End Class

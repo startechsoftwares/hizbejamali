@@ -132,6 +132,34 @@ Public Class Globals
         Return subjectContent
     End Function
 
+    Public Shared Sub SendMail(ByVal mailType As MailType, email As String, ByVal mailParameters As List(Of MailParameters), ejamaatID As String)
+        Dim bodyContent As String = GetBodyContent(mailType)
+        Dim member As New MemberController
+        For Each param As MailParameters In mailParameters
+            If bodyContent.ToLower().Contains(param.ParameterName.ToLower) Then
+                bodyContent = bodyContent.Replace(param.ParameterName.ToLower, param.ParameterValue)
+            End If
+        Next
+        Dim mail As MailMessage = New MailMessage("helpdesk@smartshab.com", email)
+        mail.From = New MailAddress("helpdesk@smartshab.com", "Team Hizb-e-Jamali")
+        If member.hasSelfReceipt(ejamaatID) Then
+            Dim currentUserEmail As String = member.GetAllMembers().Where(Function(s) s.EjamaatID = ejamaatID).FirstOrDefault().Email
+            If currentUserEmail <> String.Empty Then
+                mail.CC.Add(currentUserEmail)
+            End If
+        End If
+        mail.Body = bodyContent
+        mail.IsBodyHtml = True
+        mail.Priority = MailPriority.High
+        mail.Subject = GetSubject(mailType)
+        Dim smtp As New SmtpClient With {
+            .Host = "smartshab.com",
+            .Port = 25,
+            .Credentials = New System.Net.NetworkCredential("helpdesk@smartshab.com", "Maula@52.53$")
+        }
+        smtp.Send(mail)
+    End Sub
+
     Public Shared Sub SendMail(ByVal mailType As MailType, email As String, ByVal mailParameters As List(Of MailParameters))
         Dim bodyContent As String = GetBodyContent(mailType)
         For Each param As MailParameters In mailParameters
@@ -145,10 +173,11 @@ Public Class Globals
         mail.IsBodyHtml = True
         mail.Priority = MailPriority.High
         mail.Subject = GetSubject(mailType)
-        Dim smtp As New SmtpClient
-        smtp.Host = "mail.smartshab.com"
-        smtp.Port = 587
-        smtp.Credentials = New System.Net.NetworkCredential("helpdesk@smartshab.com", "Maula@5253")
+        Dim smtp As New SmtpClient With {
+            .Host = "smartshab.com",
+            .Port = 25,
+            .Credentials = New System.Net.NetworkCredential("helpdesk@smartshab.com", "Maula@52.53$")
+        }
         smtp.Send(mail)
     End Sub
 

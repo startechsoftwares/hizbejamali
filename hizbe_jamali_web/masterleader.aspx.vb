@@ -93,7 +93,8 @@
         'da = New OleDb.OleDbDataAdapter("SELECT * FROM GroupLeader ORDER BY Name", con)
         'ds = New DataSet
         'da.Fill(ds)
-        GridView2.DataSource = New MemberInfo().GetAllMembers(UserType.All).FindAll(Function(item) item.MemberType <> "")
+        ''GridView2.DataSource = New MemberInfo().GetAllMembers(UserType.All).FindAll(Function(item) item.MemberType <> "")
+        GridView2.DataSource = New MemberInfo().GetAllLeaders()
         GridView2.DataBind()
 
     End Sub

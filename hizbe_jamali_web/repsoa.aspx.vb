@@ -77,20 +77,26 @@
     End Sub
 
     Private Sub btnSearch_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles btnSearch.Click
-        BindGrid()
-    End Sub
-    Private Sub cboxGroupLeader_SelectedIndexChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cboxGroupLeader.SelectedIndexChanged
         Dim _list As New List(Of MemberInfo)
+        _membersList = New MemberInfo().GetAllMembers(UserType.All)
+
         If cboxGroupLeader.SelectedItem.Text <> "All" Then
-            cboxMname.Items.Clear()
             _list = _membersList.FindAll(Function(item) item.GroupLeader = cboxGroupLeader.SelectedItem.Text)
         Else
             _list = _membersList
         End If
-        cboxMname.DataSource = _list
+
+        If drpStatus.SelectedIndex > 0 Then
+            _list = _list.FindAll(Function(item) item.Status = drpStatus.SelectedItem.Text)
+        End If
+        cboxMname.Items.Clear()
+        cboxMname.DataSource = _list.FindAll(Function(item) item.UserAccountType = drpAccountType.SelectedItem.Text.ToUpper)
         cboxMname.DataTextField = "MemberFullName"
         cboxMname.DataValueField = "EjamaatID"
         cboxMname.DataBind()
+    End Sub
+    Private Sub cboxMname_SelectedIndexChanged(ByVal sender As Object, ByVal e As System.EventArgs) Handles cboxMname.SelectedIndexChanged
+        BindGrid()
     End Sub
     Public Sub TotalAmt()
         da = New OleDb.OleDbDataAdapter("SELECT SUM(Amount) FROM JournalEntry WHERE  ejamaat = '" & cboxMname.SelectedValue.Trim & "' and PaidAgainst='" + drpAccountType.SelectedValue + "'", con)

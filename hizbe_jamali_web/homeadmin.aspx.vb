@@ -7,6 +7,7 @@ Partial Public Class homeadmin
     Dim dt As New DataTable
     Private grdTotal As Decimal = 0
     Dim cm As New OleDb.OleDbCommand
+    Dim memberController As New MemberController
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         Globals.RedirectUserIfLoggedOut()
         cm.Connection = con
@@ -38,6 +39,8 @@ Partial Public Class homeadmin
             lblLeader.Text = String.Empty
         End If
         con.Close()
+
+        chkNotificationEmail.Checked = memberController.hasSelfReceipt(Session("TID"))
     End Sub
     Private Sub DatagridUpdate()
         da = New OleDb.OleDbDataAdapter("SELECT * FROM PartyLedger WHERE  Ejamaat='" & Session("TID") & "'", con)
@@ -55,5 +58,12 @@ Partial Public Class homeadmin
         Else
             Image1.ImageUrl = _image
         End If
+    End Sub
+
+    Protected Sub chkNotificationEmail_CheckedChanged(sender As Object, e As EventArgs)
+        Dim memController As New MemberController
+        memController.ToggleSelfReceipt(Session("TID"))
+        Page.ClientScript.RegisterStartupScript(Me.GetType(), "toggleConfirmation", "alert('Self receipt updated successfully')", True)
+        chkNotificationEmail.Checked = memberController.hasSelfReceipt(Session("TID"))
     End Sub
 End Class

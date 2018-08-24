@@ -81,6 +81,46 @@ Public Class MemberController
         Return _returnValue
     End Function
 
+    Public Sub ToggleSelfReceipt(eJamaatID As String)
+        Dim query As String = "update groupleader set SelfReceipt = switch(selfreceipt = 1, 0, selfreceipt = 0, 1) where ejamaat = @ejamaatid"
+        Dim connection As OleDbConnection = Globals.DatabaseConnection
+        Try
+            connection.Open()
+            With New OleDbCommand
+                .Connection = connection
+                .CommandText = query
+                .CommandType = CommandType.Text
+                .Parameters.AddWithValue("@ejamaatid", eJamaatID)
+                .ExecuteNonQuery()
+            End With
+            connection.Close()
+        Catch ex As Exception
+        Finally
+            connection.Close()
+        End Try
+    End Sub
+
+    Public Function hasSelfReceipt(ejamaatID As String) As Boolean
+        Dim query As String = "select selfreceipt from groupleader where ejamaat = @ejamaatid"
+        Dim _returnValue As Boolean = False
+        Dim connection As OleDbConnection = Globals.DatabaseConnection
+        Try
+            connection.Open()
+            With New OleDbCommand
+                .Connection = connection
+                .CommandText = query
+                .CommandType = CommandType.Text
+                .Parameters.AddWithValue("@ejamaatid", ejamaatID)
+                _returnValue = Convert.ToBoolean(.ExecuteScalar())
+            End With
+            connection.Close()
+        Catch ex As Exception
+        Finally
+            connection.Close()
+        End Try
+        Return _returnValue
+    End Function
+
     Public Sub UpdateFirstLogin(eJamaatID As String)
         Dim query As String = "UPDATE PARTYLEDGER SET ISFIRSTLOGIN=0 WHERE EJAMAAT = @ejamaatid"
         Dim connection As OleDbConnection = Globals.DatabaseConnection
@@ -319,7 +359,7 @@ Public Class MemberController
     End Function
 
     Public Function GetAllLeaders() As List(Of MemberInfo)
-        Dim query As String = "SELECT PL.MEMBER_NAME AS MEMBER_FULLNAME, GL.Name AS MEMBER_NAME, GL.EJAMAAT, GL.TYPE, PL.EMAIL FROM GROUPLEADER GL INNER JOIN PARTYLEDGER PL ON GL.EJAMAAT = PL.EJAMAAT"
+        Dim query As String = "SELECT PL.MEMBER_NAME AS MEMBER_FULLNAME, GL.Name AS MEMBER_NAME, GL.EJAMAAT, GL.TYPE, PL.EMAIL, GL.MPW as [PASSWORD] FROM GROUPLEADER GL INNER JOIN PARTYLEDGER PL ON GL.EJAMAAT = PL.EJAMAAT"
         Dim dt As New DataTable
         Dim connection As OleDbConnection = Globals.DatabaseConnection
         Dim _members As New List(Of MemberInfo)
@@ -332,6 +372,7 @@ Public Class MemberController
                 _member.Email = row("Email").ToString
                 _member.EjamaatID = row("Ejamaat").ToString
                 _member.MemberType = row("Type").ToString
+                _member.Password = row("Password").ToString
                 _members.Add(_member)
             Next
         End With
@@ -493,6 +534,68 @@ Public Class FostershipController
         connection.Close()
         Return _amount
     End Function
+End Class
+
+Public Class ZaereenLedgerController
+    Public Shared Function GetLastAccountNo() As Integer
+        Dim query As String = "select max(account_no) from zaereenledger"
+        Dim connection As OleDbConnection = Globals.DatabaseConnection
+        Dim accountNo As Integer
+        With New OleDbCommand
+            .Connection = connection
+            .CommandType = CommandType.Text
+            .CommandText = query
+            connection.Open()
+            Dim reader As OleDbDataReader = .ExecuteReader
+            reader.Read()
+            accountNo = CType(reader.GetValue(0), Integer)
+            connection.Close()
+        End With
+        Return accountNo
+    End Function
+    Public Sub Add(dt As DataTable)
+        Dim lastAccountNo As Integer = GetLastAccountNo()
+        Dim iCount As Integer = 1
+        For Each row As DataRow In dt.Rows
+            Dim query As New StringBuilder
+            query.Append("insert into zaereenledger (account_no, zaereen_name, age, ejamaat, mobile, occupation, address, tripexp, status, doj) values (")
+            query.Append((lastAccountNo + iCount).ToString() + ",")
+            query.Append("'" + row("name") + "',")
+            If Not String.IsNullOrEmpty(row("Age")) Then
+                query.Append("'" + row("age").ToString + "',")
+            Else
+                query.Append("'',")
+            End If
+            If Not String.IsNullOrEmpty(row("Its")) Then
+                query.Append("'" + row("Its").ToString + "',")
+            Else
+                query.Append("'',")
+            End If
+            If Not String.IsNullOrEmpty(row("mobile")) Then
+                query.Append("'" + row("mobile").ToString + "',")
+            Else
+                query.Append("'',")
+            End If
+
+            query.Append("'" + row("occupation").ToString().Replace("""", "").Replace("'", "") + "',")
+            query.Append("'" + row("place").ToString().Replace("""", "").Replace("'", "") + "',")
+            query.Append(row("paid by hj").ToString + ",")
+            query.Append("'" + row("financial status").ToString().Replace("""", "").Replace("'", "") + "',")
+            query.Append(row("Journey Date").ToString + ")")
+
+            Dim connection As OleDbConnection = Globals.DatabaseConnection
+            With New OleDbCommand
+                .Connection = connection
+                .CommandType = CommandType.Text
+                .CommandText = query.ToString
+                connection.Open()
+                .ExecuteNonQuery()
+                connection.Close()
+            End With
+            iCount += 1
+        Next
+
+    End Sub
 End Class
 
 Public Class FostershipItemBreakupController

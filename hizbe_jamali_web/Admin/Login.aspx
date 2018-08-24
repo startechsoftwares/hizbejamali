@@ -33,7 +33,7 @@
      <asp:Panel ID="Panel1" runat="server" DefaultButton="btnLogin">
 
 
-  <table align="center" frame="box"color: #FFCC66; border-width: 5px;" width="35%" style="border-color: #000000;">
+  <table align="center" frame="box-color: #FFCC66; border-width: 5px;" width="35%" style="border-color: #000000;">
     <tr>
     <td>
           <asp:Label ID="Label1" runat="server" Text="ITS ID:" ForeColor="#663300" Font-Bold="True" Font-Size="Small" Font-Names="Arial "></asp:Label>

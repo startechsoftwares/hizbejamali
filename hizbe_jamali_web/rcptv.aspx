@@ -1,4 +1,4 @@
-﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="rcptv.aspx.vb" Inherits="Hizbe_Jamali_Web.rcptv" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="rcptv.aspx.vb" Inherits="Hizbe_Jamali_Web.Rcptv" %>
 
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -60,7 +60,7 @@
                 var narration = $('#<%= txtNarration.ClientID%>').val();
                 var amount = $('#<%= txtAmount.ClientID%>').val();
                 var receipt_against = $('#<%= drpAccountType.ClientID%> option:selected').text();
-                if (date != "" && narration != "" && amount != "") {
+                if (date != "" && narration != "" && amount != "" && $('#<%= cboxSname.ClientID %> option:selected').val() != "-1") {
                     $(".txn").html(txn);
                     $(".rptdate").html(date);
                     $(".memname").html(memName);
@@ -177,7 +177,10 @@
                                 <td>Name:
                                 </td>
                                 <td>
-                                    <asp:DropDownList ID="cboxSname" runat="server" CssClass="cbox" Width="400px" AutoPostBack="true" OnSelectedIndexChanged="cboxSname_SelectedIndexChanged"></asp:DropDownList>
+                                    <asp:DropDownList ID="cboxSname" runat="server" CssClass="cbox" Width="400px" AppendDataBoundItems="true" AutoPostBack="true" OnSelectedIndexChanged="cboxSname_SelectedIndexChanged">
+                                        <asp:ListItem Text=" - Please Select Member - " Value="-1"></asp:ListItem>
+                                    </asp:DropDownList>
+                                    
                                 </td>
                             </tr>
                             <tr>
@@ -236,7 +239,9 @@
                                         <asp:Label ID="Label3" runat="server" Text="Member:-"></asp:Label></h4>
                                 </asp:TableCell>
                                 <asp:TableCell>
-                                    <asp:DropDownList ID="cboxMemberName" runat="server" CssClass="cbox" Width="300px" AutoPostBack="true" OnSelectedIndexChanged="cboxMemberName_SelectedIndexChanged"></asp:DropDownList>
+                                    <asp:DropDownList ID="cboxMemberName" runat="server" AppendDataBoundItems="true" CssClass="cbox" Width="300px" AutoPostBack="true" OnSelectedIndexChanged="cboxMemberName_SelectedIndexChanged">
+                                        <asp:ListItem Text=" - Please Select Member - " Value="-1"></asp:ListItem>
+                                    </asp:DropDownList>
                                 </asp:TableCell>
                                 <asp:TableCell>
                                     <asp:DropDownList ID="drpUserAccountTypeSearch" runat="server"></asp:DropDownList>

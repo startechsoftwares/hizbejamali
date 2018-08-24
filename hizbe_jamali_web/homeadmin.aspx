@@ -120,6 +120,13 @@
                             </asp:TableRow>
                             <asp:TableRow>
                                 <asp:TableCell Width="25%">
+                                    <asp:Label ID="Label4" runat="server" Text="Receipt Email"></asp:Label></asp:TableCell>
+                                <asp:TableCell>
+                                    <asp:CheckBox ID="chkNotificationEmail" OnCheckedChanged="chkNotificationEmail_CheckedChanged" AutoPostBack="true" runat="server" />
+                                </asp:TableCell>
+                            </asp:TableRow>
+                            <asp:TableRow>
+                                <asp:TableCell Width="25%">
                                     <asp:Label ID="Label10" runat="server" Text="Photo"></asp:Label></asp:TableCell>
                                 <asp:TableCell>
                                     <asp:Image ID="Image1" runat="server" Width="50%" /></asp:TableCell>
@@ -167,5 +174,13 @@
             <!-- End footer -->
         </div>
     </form>
+    <script type="text/javascript">
+        notificationEmail = function () {
+            if ($("[id*=chkNotificationEmail]").is(":checked"))
+                return confirm("Are you sure you want to enable self email receipts?");
+            else
+                return confirm("Are you sure you want to disable self email receipts?");
+        }
+    </script>
 </body>
 </html>

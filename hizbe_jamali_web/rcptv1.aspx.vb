@@ -165,6 +165,7 @@ Partial Public Class rcptv1
 
     Private Sub btnSubmit_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles btnAddReceipt.Click
         lblMessage.Visible = True
+        Dim _date As DateTime = DateTime.ParseExact(txtDate.Text, "MM/dd/yyyy", CultureInfo.InvariantCulture).ToString("MMMM dd, yyyy")
         Dim member As MemberInfo = MemberInfo.GetMember(cboxSname.SelectedValue)
         If lblTNo.Text <> "" Or txtDate.Text <> "" Or txtAmount.Text <> "" Or txtNarration.Text <> "" Or cboxMemberName.Text <> "" Then
             If String.IsNullOrEmpty(member.Email) Then
@@ -177,10 +178,11 @@ Partial Public Class rcptv1
                 params.Add(New MailParameters() With {.ParameterName = "##receiptno##", .ParameterValue = lblTNo.Text})
                 params.Add(New MailParameters() With {.ParameterName = "##name##", .ParameterValue = member.MemberFullName})
                 params.Add(New MailParameters() With {.ParameterName = "##narration##", .ParameterValue = txtNarration.Text})
-                params.Add(New MailParameters() With {.ParameterName = "##paymentdate##", .ParameterValue = Convert.ToDateTime(txtDate.Text).ToString("MMMM dd, yyyy")})
+                params.Add(New MailParameters() With {.ParameterName = "##paymentdate##", .ParameterValue = _date.ToString("MMMM dd, yyyy")})
                 params.Add(New MailParameters() With {.ParameterName = "##amount##", .ParameterValue = txtAmount.Text})
                 params.Add(New MailParameters() With {.ParameterName = "##currency##", .ParameterValue = cboxFCY.Text})
-                Globals.SendMail(MailType.PaymentReceipt, member.Email, params)
+                params.Add(New MailParameters() With {.ParameterName = "##paid-against##", .ParameterValue = drpAccountType.SelectedItem.Text})
+                Globals.SendMail(MailType.PaymentReceipt, member.Email, params, Session("TID"))
                 Call ClearAll()
             End If
         Else
@@ -213,7 +215,8 @@ Partial Public Class rcptv1
         Else
             If da.Fill(ds) Then
                 txtDate.Text = ds.Tables(0).Rows(0)(1)
-                cboxSname.SelectedIndex = cboxSname.Items.IndexOf(cboxSname.Items.FindByValue(ds.Tables(0).Rows(0)(2).ToString))
+                cboxSname.SelectedIndex = cboxSname.Items.IndexOf(cboxSname.Items.FindByValue(ds.Tables(0).Rows(0)("Ejamaat").ToString))
+                cboxSname_SelectedIndexChanged(sender, e)
                 txtNarration.Text = ds.Tables(0).Rows(0)(3)
                 cboxFCY.Text = ds.Tables(0).Rows(0)(5)
                 txtAmount.Text = ds.Tables(0).Rows(0)(6)

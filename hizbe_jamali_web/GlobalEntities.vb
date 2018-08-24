@@ -556,3 +556,16 @@ Public Class FostershipItemBreakupInfo
     Private Remark As String
 
 End Class
+
+Public Class ZaereenLedgerInfo
+    Shared controller As ZaereenLedgerController
+    Sub New()
+        controller = New ZaereenLedgerController()
+    End Sub
+    Public Shared Function GetLastAccountNo() As Integer
+        Return ZaereenLedgerController.GetLastAccountNo
+    End Function
+    Public Sub Add(ds As DataSet)
+        controller.Add(ds.Tables(0))
+    End Sub
+End Class

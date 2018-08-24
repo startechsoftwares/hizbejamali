@@ -88,13 +88,17 @@
                             <asp:TableCell>
                                 <asp:Label ID="Label4" runat="server" Text="Filter By Group:-"></asp:Label></asp:TableCell>
                             <asp:TableCell>
-                                <asp:DropDownList ID="cboxGroupLeader" runat="server" CssClass="cbox" AutoPostBack="True"></asp:DropDownList></asp:TableCell>
+                                <asp:DropDownList ID="cboxGroupLeader" runat="server" CssClass="cbox"></asp:DropDownList></asp:TableCell>
                         </asp:TableRow>
-                        <asp:TableRow>
+                         <asp:TableRow>
                             <asp:TableCell>
-                                <asp:Label ID="Label3" runat="server" Text="Name:-"></asp:Label></asp:TableCell>
+                                <asp:Label ID="Label7" runat="server" Text="Filter By Status:-"></asp:Label></asp:TableCell>
                             <asp:TableCell>
-                                <asp:DropDownList ID="cboxMname" runat="server" CssClass="cboxbig"></asp:DropDownList></asp:TableCell>
+                                <asp:DropDownList ID="drpStatus" runat="server" CssClass="cbox">
+                                    <asp:ListItem Text="All" Value="-1"></asp:ListItem>
+                                    <asp:ListItem Text="Inactive" Value="0"></asp:ListItem>
+                                    <asp:ListItem Text="Active" Value="1"></asp:ListItem>
+                                </asp:DropDownList></asp:TableCell>
                         </asp:TableRow>
                         <asp:TableRow>
                              <asp:TableCell>
@@ -105,12 +109,18 @@
                                     <asp:ListItem Text="Foster" Value="Foster"></asp:ListItem>
                                 </asp:DropDownList></asp:TableCell>
                         </asp:TableRow>
+                        <asp:TableRow>
+                            <asp:TableCell>
+                                <asp:Button ID="btnSearch" runat="server" Text="Search" CssClass="button" /></asp:TableCell>
+                        </asp:TableRow>
                     </asp:Table>
 
                     <asp:Table ID="Table5" runat="server" Width="100%">
                         <asp:TableRow>
-                            <asp:TableCell Width="80%">
-                                <asp:Button ID="btnSearch" runat="server" Text="Search" CssClass="button" /></asp:TableCell>
+                            <asp:TableCell>
+                                <asp:Label ID="Label3" runat="server" Text="Name:-"></asp:Label></asp:TableCell>
+                            <asp:TableCell>
+                                <asp:DropDownList ID="cboxMname" runat="server" CssClass="cboxbig" AutoPostBack="true"></asp:DropDownList></asp:TableCell>
                         </asp:TableRow>
                     </asp:Table>
 

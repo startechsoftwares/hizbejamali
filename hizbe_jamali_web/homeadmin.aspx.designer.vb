@@ -12,7 +12,7 @@ Option Explicit On
 
 
 Partial Public Class homeadmin
-
+    
     '''<summary>
     '''form1 control.
     '''</summary>
@@ -21,7 +21,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
-
+    
     '''<summary>
     '''Table7 control.
     '''</summary>
@@ -30,7 +30,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Table7 As Global.System.Web.UI.WebControls.Table
-
+    
     '''<summary>
     '''lblLogged control.
     '''</summary>
@@ -39,7 +39,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblLogged As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''lblLeader control.
     '''</summary>
@@ -48,7 +48,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblLeader As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''plcErrorMessage control.
     '''</summary>
@@ -57,7 +57,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents plcErrorMessage As Global.System.Web.UI.WebControls.PlaceHolder
-
+    
     '''<summary>
     '''lblError control.
     '''</summary>
@@ -66,7 +66,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblError As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''lnkDashBoard control.
     '''</summary>
@@ -75,7 +75,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lnkDashBoard As Global.System.Web.UI.WebControls.HyperLink
-
+    
     '''<summary>
     '''plcMainContent control.
     '''</summary>
@@ -84,7 +84,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents plcMainContent As Global.System.Web.UI.WebControls.PlaceHolder
-
+    
     '''<summary>
     '''Table1 control.
     '''</summary>
@@ -93,7 +93,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Table1 As Global.System.Web.UI.WebControls.Table
-
+    
     '''<summary>
     '''Label51 control.
     '''</summary>
@@ -102,7 +102,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Label51 As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''lblName control.
     '''</summary>
@@ -111,7 +111,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblName As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''Label2 control.
     '''</summary>
@@ -120,7 +120,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Label2 As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''lblEjamaat control.
     '''</summary>
@@ -129,7 +129,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblEjamaat As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''Label3 control.
     '''</summary>
@@ -138,7 +138,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Label3 As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''lblContact control.
     '''</summary>
@@ -147,7 +147,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblContact As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''Label1 control.
     '''</summary>
@@ -156,7 +156,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Label1 As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''lblEmail control.
     '''</summary>
@@ -165,7 +165,25 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents lblEmail As Global.System.Web.UI.WebControls.Label
-
+    
+    '''<summary>
+    '''Label4 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents Label4 As Global.System.Web.UI.WebControls.Label
+    
+    '''<summary>
+    '''chkNotificationEmail control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents chkNotificationEmail As Global.System.Web.UI.WebControls.CheckBox
+    
     '''<summary>
     '''Label10 control.
     '''</summary>
@@ -174,7 +192,7 @@ Partial Public Class homeadmin
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents Label10 As Global.System.Web.UI.WebControls.Label
-
+    
     '''<summary>
     '''Image1 control.
     '''</summary>
