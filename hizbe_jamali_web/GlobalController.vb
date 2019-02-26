@@ -431,7 +431,7 @@ Public Class MemberJournalController
 
     Public Function SearchRangeByGroupLeader(GLName As String, fromDate As String, fromTo As String) As List(Of MemberJournal)
         Dim _member As New List(Of MemberJournal)
-        Dim query As String = "SELECT JVNo, DOJ, Account_Name, Narration, FCY, Amount, Sign, ejamaat FROM journalentry where DOJ between #" + fromDate + "# and #" + fromTo + "# and Leader_Name = '" + GLName + "' and account_name <> 'Cash Account' order by JVNo desc"
+        Dim query As String = "SELECT JVNo, DOJ, Account_Name, Narration, FCY, Amount, Sign, ejamaat, paidagainst FROM journalentry where DOJ between #" + fromDate + "# and #" + fromTo + "# and Leader_Name = '" + GLName + "' and Sign='Cr' and account_name <> 'Cash Account' order by JVNo desc"
         Dim dt As New DataTable
         Dim connection As OleDbConnection = Globals.DatabaseConnection
         With New OleDbDataAdapter(query, connection)
@@ -445,6 +445,7 @@ Public Class MemberJournalController
                 member.Narration = row("narration").ToString
                 member.CurrencyName = row("fcy").ToString
                 member.Amount = Convert.ToInt32(row("amount"))
+                member.PaidAgainst = row("paidagainst").ToString
                 _member.Add(member)
             Next
         End With

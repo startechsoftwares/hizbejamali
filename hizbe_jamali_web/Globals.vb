@@ -153,7 +153,7 @@ Public Class Globals
         mail.Priority = MailPriority.High
         mail.Subject = GetSubject(mailType)
         Dim smtp As New SmtpClient With {
-            .Host = "smartshab.com",
+            .Host = "mail.smartshab.com",
             .Port = 25,
             .Credentials = New System.Net.NetworkCredential("helpdesk@smartshab.com", "Maula@52.53$")
         }
@@ -174,9 +174,9 @@ Public Class Globals
         mail.Priority = MailPriority.High
         mail.Subject = GetSubject(mailType)
         Dim smtp As New SmtpClient With {
-            .Host = "smartshab.com",
+            .Host = "mail.smartshab.com",
             .Port = 25,
-            .Credentials = New System.Net.NetworkCredential("helpdesk@smartshab.com", "Maula@52.53$")
+            .Credentials = New System.Net.NetworkCredential("helpdesk@smartshab.com", "Maula@52.53$")   
         }
         smtp.Send(mail)
     End Sub

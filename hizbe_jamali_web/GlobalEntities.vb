@@ -312,7 +312,16 @@ Public Class MemberJournal
     Private _eJamaatID As String
     Private _amount As Integer
     Private _totalAmount As Integer
+    Private _paidAgainst As String
 
+    Public Property PaidAgainst As String
+        Get
+            Return _paidAgainst
+        End Get
+        Set(ByVal value As String)
+            _paidAgainst = value
+        End Set
+    End Property
     Public Property JVNo As String
         Get
             Return _jvno
