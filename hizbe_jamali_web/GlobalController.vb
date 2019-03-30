@@ -546,7 +546,9 @@ Public Class ZaereenLedgerController
             .Connection = connection
             .CommandType = CommandType.Text
             .CommandText = query
-            connection.Open()
+            If .Connection.State = ConnectionState.Closed Then
+                connection.Open()
+            End If
             Dim reader As OleDbDataReader = .ExecuteReader
             reader.Read()
             accountNo = CType(reader.GetValue(0), Integer)
@@ -561,35 +563,40 @@ Public Class ZaereenLedgerController
             Dim query As New StringBuilder
             query.Append("insert into zaereenledger (account_no, zaereen_name, age, ejamaat, mobile, occupation, address, tripexp, status, doj) values (")
             query.Append((lastAccountNo + iCount).ToString() + ",")
-            query.Append("'" + row("name") + "',")
-            If Not String.IsNullOrEmpty(row("Age")) Then
-                query.Append("'" + row("age").ToString + "',")
+            query.Append("'" + row("Name") + "',")
+            If Not row("Age") Is Nothing And row("Age").ToString() <> String.Empty Then
+                query.Append("'" + row("Age").ToString + "',")
+            Else
+                query.Append("',")
+            End If
+            If Not row("ITS") Is Nothing And row("ITS").ToString() <> String.Empty Then
+                query.Append("'" + row("ITS").ToString + "',")
             Else
                 query.Append("'',")
             End If
-            If Not String.IsNullOrEmpty(row("Its")) Then
-                query.Append("'" + row("Its").ToString + "',")
-            Else
-                query.Append("'',")
-            End If
-            If Not String.IsNullOrEmpty(row("mobile")) Then
-                query.Append("'" + row("mobile").ToString + "',")
+            If Not row("Mobile") Is Nothing And row("Mobile").ToString() <> String.Empty Then
+                query.Append("'" + row("Mobile").ToString + "',")
             Else
                 query.Append("'',")
             End If
 
-            query.Append("'" + row("occupation").ToString().Replace("""", "").Replace("'", "") + "',")
-            query.Append("'" + row("place").ToString().Replace("""", "").Replace("'", "") + "',")
-            query.Append(row("paid by hj").ToString + ",")
-            query.Append("'" + row("financial status").ToString().Replace("""", "").Replace("'", "") + "',")
-            query.Append(row("Journey Date").ToString + ")")
-
+            query.Append("'" + row("Occupation").ToString().Replace("""", "").Replace("'", "") + "',")
+            query.Append("'" + row("Place").ToString().Replace("""", "").Replace("'", "") + "',")
+            query.Append("'" + row("Paid By HJ").ToString().Replace("""", "").Replace("'", "") + "',")
+            query.Append("'" + row("Financial Status").ToString().Replace("""", "").Replace("'", "") + "',")
+            If Not row("Journey Date") Is Nothing And row("Journey Date").ToString() <> String.Empty Then
+                query.Append("'" + row("Journey Date").ToString() + "')")
+            Else
+                query.Append("NULL)")
+            End If
             Dim connection As OleDbConnection = Globals.DatabaseConnection
             With New OleDbCommand
                 .Connection = connection
                 .CommandType = CommandType.Text
                 .CommandText = query.ToString
-                connection.Open()
+                If .Connection.State = ConnectionState.Closed Then
+                    connection.Open()
+                End If
                 .ExecuteNonQuery()
                 connection.Close()
             End With
